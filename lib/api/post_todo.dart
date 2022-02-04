@@ -1,0 +1,1 @@
+import 'package:amplify_login_example2/api/signer.dart';
